@@ -22,8 +22,8 @@ from selenium.webdriver.firefox.options import Options
 
 def download(args):
 	link = "https://pesuacademy.com/Academy/"
-	username = "PES1201900583"
-	password = "Mayank1403"
+	username = "username"
+	password = "password"
 
 	firefox_options = Options()
 	firefox_options.add_argument('--headless')

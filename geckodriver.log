@@ -1,0 +1,30 @@
+1624797113217	geckodriver	INFO	Listening on 127.0.0.1:52158
+1624797119949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileBaNaBj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1624797125245	Marionette	INFO	Listening on port 52947
+1624797125329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.3df7948c21bd43e94300.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.3df7948c21bd43e94300.js, line 19: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/bootstrap_qr.3df7948c21bd43e94300.js, line 18: SecurityError: The operation is insecure.
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624797164472	Marionette	INFO	Stopped listening on port 52941624797165777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileVpr9Fz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1624797169256	Marionette	INFO	Listening on port 61248
+1624797169485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.3df7948c21bd43e94300.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.3df7948c21bd43e94300.js, line 19: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/bootstrap_qr.3df7948c21bd43e94300.js, line 18: SecurityError: The operation is insecure.
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624797183691	Marionette	INFO	Stopped listening on port 61248
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
